@@ -418,7 +418,7 @@ $GLOBALS['DMA_SIMPLEGRID_CONFIG']['foundation6'] = array
         ),
         'additional-classes' => array
         (
-            'row' => array('grid-margin-x','grid-margin-y','grid-padding-x','grid-padding-y', 'align-right','align-center','align-justify','align-spaced','align-top','align-middle','align-bottom','align-stretch'),
+            'row' => array('grid-margin-x','grid-margin-y','grid-padding-x','grid-padding-y','align-right','align-center','align-justify','align-spaced','align-top','align-middle','align-bottom','align-stretch'),
             'columns' => array('shrink', 'auto', 'small-centered','medium-centered','large-centered','small-uncentered','medium-uncentered','large-uncentered')
         )
     )
